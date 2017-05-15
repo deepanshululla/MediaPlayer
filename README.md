@@ -14,6 +14,6 @@ As well as to move to different position in audio/video using the slider.
 
 ![alt text][snap2]
 
-[snap2]:https://github.com/deepanshululla/MediaPlayer/blob/master/Player/snap2.PNG "Open option helps in opening other videos other than default video."
+[snap2]:https://github.com/deepanshululla/MediaPlayer/blob/master/Player/snap2.png "Open option helps in opening other videos other than default video."
 
 
